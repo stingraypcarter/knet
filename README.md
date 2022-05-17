@@ -11,11 +11,11 @@ With a number of genes n, the state of the system can be represented as a decima
 
 ## Examples
 - Here a set of 10 genes falls into a fixed state in only three iterations.
-  [10 Stable](Resources/10_Stable.jpg)
+  ![10 Stable](Resources/10_Stable.jpg)
 - In this example 10 genes fall into a cycle in 12 iterations with a cycle length of 9 repeating the states: [0, 160, 148, 44, 16, 172, 52, 28, 76].
-  [10 Cycle](Resources/10_Cycle.jpg)
+  ![10 Cycle](Resources/10_Cycle.jpg)
 - Increasing the number of genes to 100 leads to a more complex cycle occuring at iteration 72 with a length 28.
-  [100 Cycle](Resources/100_Cycle.jpg)
+  ![100 Cycle](Resources/100_Cycle.jpg)
 
 
 ## More Reading
